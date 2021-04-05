@@ -1,0 +1,13 @@
+#background-image {
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#h1 {
+    color: red;
+}
+#canvas {
+    background-color: white;
+    border: 10px ridge white;
+}
